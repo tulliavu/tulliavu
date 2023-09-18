@@ -4,7 +4,7 @@
 
 - Hi, I’m @tulliavu
 
-- I’m interested in Data Science and LSCM
+- I’m interested in Data Science and Economics
 
 - I’m currently learning C, C++, Python
 

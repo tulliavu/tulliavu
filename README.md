@@ -14,7 +14,7 @@
 
   - fb: fb.com/vutrucquynh136/
 
-  - linkedin: https://www.linkedin.com/in/truc-quynh-vu-949165221/
+  - linkedin: https://www.linkedin.com/in/trucquynhvu136/
 
 <p align="center">
 <img src = "https://media2.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy-downsized-large.gif"/>

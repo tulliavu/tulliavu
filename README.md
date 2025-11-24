@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>A student at FTU - HCM city</h2>
+  <h2>A student at <s> FTU - HCM city</s> Hiroshima University </h2>
 </div>
 
 - Hi, I’m @tulliavu

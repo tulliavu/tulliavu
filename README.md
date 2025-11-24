@@ -1,12 +1,12 @@
 <div align="center">
-  <h2>A student at <s> FTU - HCM city</s> Hiroshima University </h2>
+  <h2>A  <s> student </s>  Master candidate at <s> FTU - HCM city</s> Hiroshima University </h2>
 </div>
 
 - Hi, I’m @tulliavu
 
 - I’m interested in Data Science and Economics
 
-- I’m currently using Python 
+- I’m currently using Python to construct optimal model
 
 - I’m looking to collaborate on the application of programing in Electric Vehicle (EV) Management
 

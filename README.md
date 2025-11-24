@@ -6,13 +6,13 @@
 
 - I’m interested in Data Science and Economics
 
-- I’m currently learning C, C++, Python
+- I’m currently using Python 
 
-- I’m looking to collaborate on the application of programing in bussiness
+- I’m looking to collaborate on the application of programing in Electric Vehicle (EV) Management
 
 - How to reach me:
 
-  - fb: fb.com/vutrucquynh136/
+  - email: vutrucquynh136@gmail.com
 
   - linkedin: https://www.linkedin.com/in/trucquynhvu136/
 

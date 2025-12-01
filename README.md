@@ -1,4 +1,4 @@
-#### 🎓 Master Candidate at Hiroshima University
+# 🎓 Master Candidate at Hiroshima University
 
 - Hi, I’m **@tulliavu**  
 - Interested in **Data Science, Optimization, and Economics**  

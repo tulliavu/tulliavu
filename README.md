@@ -1,4 +1,4 @@
-## 🎓 Master Candidate at Hiroshima University
+#### 🎓 Master Candidate at Hiroshima University
 
 - Hi, I’m **@tulliavu**  
 - Interested in **Data Science, Optimization, and Economics**  
@@ -8,6 +8,9 @@
 ---
 
 ## 🎓 Education
+**10/2025 – Present**  
+**Master of Philosophy**, Graduate School of Innovation and Practice for Smart Society (SmaSo), Hiroshima University, Japan  
+- **Thesis:** *Siting Optimization of Public Electric Vehicle Charging Stations: A Case Study of Ho Chi Minh City*
 
 **9/2021 – 4/2025**  
 **Bachelor of International Economics**, Foreign Trade University – Ho Chi Minh City Campus (FTU2), Vietnam  
@@ -15,9 +18,7 @@
 - **Thesis:** *Placement Optimization of Electric Vehicle Charging Stations in Ho Chi Minh City Using a Mixed Integer Nonlinear Programming Model*  
 - Thesis score: **8.5/10**
 
-**10/2025 – Present**  
-**Master of Philosophy**, Graduate School of Innovation and Practice for Smart Society (SmaSo), Hiroshima University, Japan  
-- **Thesis:** *Siting Optimization of Public Electric Vehicle Charging Stations: A Case Study of Ho Chi Minh City*
+
 
 ---
 

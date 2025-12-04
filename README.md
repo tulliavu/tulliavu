@@ -1,7 +1,7 @@
 # 🎓 Master Candidate at Hiroshima University
 
 - Hi, I’m **@tulliavu**  
-- Interested in **Data Science, Optimization, and Economics**  
+- Interested in **Data, Optimization, and Economics**  
 - Currently using **Python** to build optimization models  
 - Looking to collaborate on **programming applications in Electric Vehicle (EV) Management**
 
